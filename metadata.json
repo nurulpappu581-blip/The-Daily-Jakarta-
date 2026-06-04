@@ -1,0 +1,6 @@
+{
+  "name": "The Daily Jakarta",
+  "description": "A complete, modern, professional news website featuring breaking news, multi-category coverage, interactive reader engagement, live metrics, and a fully functional editor and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
